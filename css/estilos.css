@@ -1,0 +1,88 @@
+
+html{
+    font-family: 'Roboto';
+}
+.header-top {
+    background-color: #222222;
+    color: #F3F3F3;
+}
+
+.list-style {
+    list-style: none;
+}
+
+.header-bottom {
+    background-color: #F0A83E;
+    color: #FFFFFF;
+}
+
+#front {
+    color: #3C2313;
+}
+
+.banner {
+    text-align: center;
+    background-image: url("../img/bowl-and-pet-daities-on-green-background 1.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    padding-top: 20px
+}
+
+.banner>h2 {
+    background-color: #F0A83E;
+    width: max-content;
+    margin: auto;
+    color: #FFFFFF;
+}
+
+.center {
+    text-align: center;
+}
+
+.list-style-main {
+    list-style: none;
+}
+
+.price {
+    color: #F0A83E;
+}
+
+.list-style-footer {
+    list-style: none;
+}
+
+.footer {
+    background-color: #3C2313;
+    color: #FFFFFF;
+}
+
+.text {
+    color: #8A8787;
+}
+
+#footer-front {
+    color: #FFFFFF
+}
+
+#footer-text {
+    color: #F0A83E;
+}
+
+#footer-p {
+    background-color: #F0A83E;
+    text-align: center;
+}
+
+.general-text {
+    font-weight: 700;
+
+}
+
+.text-regular {
+    font-weight: 400;
+
+}
+.text-medium{
+    font-weight: 500;
+}
